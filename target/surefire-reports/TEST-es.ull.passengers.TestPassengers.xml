@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="es.ull.passengers.TestPassengers" time="0.01" tests="20" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="es.ull.passengers.TestPassengers" time="0.004" tests="20" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.class.path" value="C:\DAP\LDyH-P7\Airport\target\test-classes;C:\DAP\LDyH-P7\Airport\target\classes;C:\Users\Curiosity 4\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.0\junit-jupiter-api-5.6.0.jar;C:\Users\Curiosity 4\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\Curiosity 4\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Curiosity 4\.m2\repository\org\junit\platform\junit-platform-commons\1.6.0\junit-platform-commons-1.6.0.jar;C:\Users\Curiosity 4\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.0\junit-jupiter-engine-5.6.0.jar;C:\Users\Curiosity 4\.m2\repository\org\junit\platform\junit-platform-engine\1.6.0\junit-platform-engine-1.6.0.jar;"/>
+    <property name="java.class.path" value="C:\DAP\P8\target\test-classes;C:\DAP\P8\target\classes;C:\Users\Curiosity 4\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.0\junit-jupiter-api-5.6.0.jar;C:\Users\Curiosity 4\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\Curiosity 4\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Curiosity 4\.m2\repository\org\junit\platform\junit-platform-commons\1.6.0\junit-platform-commons-1.6.0.jar;C:\Users\Curiosity 4\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.0\junit-jupiter-engine-5.6.0.jar;C:\Users\Curiosity 4\.m2\repository\org\junit\platform\junit-platform-engine\1.6.0\junit-platform-engine-1.6.0.jar;"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -15,9 +15,9 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="ES"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17\bin"/>
-    <property name="sun.java.command" value="C:\Users\CURIOS~1\AppData\Local\Temp\surefire17941456059332837872\surefirebooter8946042181549518498.jar C:\Users\Curiosity 4\AppData\Local\Temp\surefire17941456059332837872 2024-12-22T19-08-57_104-jvmRun1 surefire14545591550572981525tmp surefire_09321178631209934226tmp"/>
+    <property name="sun.java.command" value="C:\Users\CURIOS~1\AppData\Local\Temp\surefire8951506950349412295\surefirebooter7505934898970297903.jar C:\Users\Curiosity 4\AppData\Local\Temp\surefire8951506950349412295 2024-12-22T20-33-36_530-jvmRun1 surefire9247854316454164991tmp surefire_010047688445088529501tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="C:\DAP\LDyH-P7\Airport\target\test-classes;C:\DAP\LDyH-P7\Airport\target\classes;C:\Users\Curiosity 4\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.0\junit-jupiter-api-5.6.0.jar;C:\Users\Curiosity 4\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\Curiosity 4\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Curiosity 4\.m2\repository\org\junit\platform\junit-platform-commons\1.6.0\junit-platform-commons-1.6.0.jar;C:\Users\Curiosity 4\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.0\junit-jupiter-engine-5.6.0.jar;C:\Users\Curiosity 4\.m2\repository\org\junit\platform\junit-platform-engine\1.6.0\junit-platform-engine-1.6.0.jar;"/>
+    <property name="surefire.test.class.path" value="C:\DAP\P8\target\test-classes;C:\DAP\P8\target\classes;C:\Users\Curiosity 4\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.0\junit-jupiter-api-5.6.0.jar;C:\Users\Curiosity 4\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\Curiosity 4\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Curiosity 4\.m2\repository\org\junit\platform\junit-platform-commons\1.6.0\junit-platform-commons-1.6.0.jar;C:\Users\Curiosity 4\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.0\junit-jupiter-engine-5.6.0.jar;C:\Users\Curiosity 4\.m2\repository\org\junit\platform\junit-platform-engine\1.6.0\junit-platform-engine-1.6.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\Curiosity 4"/>
     <property name="user.language" value="es"/>
@@ -25,12 +25,12 @@
     <property name="java.version.date" value="2024-04-16"/>
     <property name="java.home" value="C:\Program Files\Java\jdk-17"/>
     <property name="file.separator" value="\"/>
-    <property name="basedir" value="C:\DAP\LDyH-P7\Airport"/>
+    <property name="basedir" value="C:\DAP\P8"/>
     <property name="java.vm.compressedOopsMode" value="32-bit"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\CURIOS~1\AppData\Local\Temp\surefire17941456059332837872\surefirebooter8946042181549518498.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\CURIOS~1\AppData\Local\Temp\surefire8951506950349412295\surefirebooter7505934898970297903.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.11+7-LTS-207"/>
@@ -44,7 +44,7 @@
     <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
     <property name="java.io.tmpdir" value="C:\Users\CURIOS~1\AppData\Local\Temp\"/>
     <property name="java.version" value="17.0.11"/>
-    <property name="user.dir" value="C:\DAP\LDyH-P7\Airport"/>
+    <property name="user.dir" value="C:\DAP\P8"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="sun.os.patch.level" value=""/>
@@ -70,7 +70,7 @@
   <testcase name="testFlightPassengerCount" classname="es.ull.passengers.TestPassengers" time="0"/>
   <testcase name="testInvalidCountryCode" classname="es.ull.passengers.TestPassengers" time="0"/>
   <testcase name="testFlightPassengerCountExceedingCapacity" classname="es.ull.passengers.TestPassengers" time="0"/>
-  <testcase name="testFlightRemovePassenger" classname="es.ull.passengers.TestPassengers" time="0.001"/>
+  <testcase name="testFlightRemovePassenger" classname="es.ull.passengers.TestPassengers" time="0"/>
   <testcase name="testFlightAddPassenger" classname="es.ull.passengers.TestPassengers" time="0"/>
   <testcase name="testValidPassengerCreation" classname="es.ull.passengers.TestPassengers" time="0"/>
   <testcase name="testFlight" classname="es.ull.passengers.TestPassengers" time="0"/>
